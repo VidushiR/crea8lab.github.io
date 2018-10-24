@@ -3,3 +3,16 @@
 header {
   background: blue;
 }
+
+body { 
+    padding-top: 5%; 
+ }
+ 
+ nav {
+   padding-bottom:2%;
+ }
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
